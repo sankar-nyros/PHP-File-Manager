@@ -67,12 +67,12 @@
 				echo $value = $_GET["choice"];
 				if($value == "new")
 				{
-					header("Location:/Assignment_5/new.php"); /* Redirect browser */
+					header("Location:/PFM/new.php"); /* Redirect browser */
 					exit();
 				}
 				if($value == "old")
 				{
-					header("Location:/Assignment_5/old.php"); /* Redirect browser */
+					header("Location:/PFM/old.php"); /* Redirect browser */
 					exit();
 				}
 			?>

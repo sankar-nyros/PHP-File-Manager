@@ -103,7 +103,7 @@
 
 					# Get a random 32 bit number using time() as seed.
 					$num = md5( time() );
-					$SendEmail ="sankar_nyros@yahoo.com";
+					$SendEmail ="something@domain.com"; // Mail id
 					$header = 'From: ' . $SendEmail . "\r\n" .
 					'Reply-To: ' . $SendEmail . "\r\n"; 
 
