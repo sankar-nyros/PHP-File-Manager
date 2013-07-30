@@ -25,6 +25,6 @@ Download the zip file.
 
 ->Create a folder(Name: PFM) in localhost.
 ->copy zip file contents into PFM folder.
-->Open the PFM.php file in browser.(localhost/PFM/PFM.php).
+->Open the PFM.php file in browser(localhost/PFM/PFM.php).
 
 
