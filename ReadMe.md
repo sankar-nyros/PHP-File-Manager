@@ -4,18 +4,17 @@ __________________________
 
 PHP File Manager(PFM) is an Open Source.
 
-PFM should be a single button. Upon clicking, should prompt user: 1. Upload New 2. Modify Existing.
-If user selects "Upload New", a browse button to upload new file should appear. 
+PFM is a single button. By clicking it prompts user to: 1. Upload New 2. Modify Existing.
+If user selects "Upload New", It allows user to upload files.
 
-	->If the file is an image (jpeg, gif, png), then On upload, the script should crop and store it in a specified directory in 3 different sizes: 50X50, 100X100 and the original size. All the three images should be displayed in the last step showing a success message. - 		->If the file is text file, cropping is not applicable. 
+  ->If the file is an image (jpeg, gif, png), then On upload, uploaded image cropped into 3 different sizes: 50X50, 100X100 and the original size. Saved in a specified directory.All the three images are displayed after successful upload.
+  ->If the file is text file, cropping is not applicable. 
 
-If "Modify Existing" is selected, allow user to select the file providing radio buttons against existing text files in directory. Upon selection, user should be prompted with 'Edit', 'Delete' options. 
+If "Modify Existing" is selected, allows user to select the file providing radio buttons against existing text files in directory. Upon selection, It displays 'Edit', 'Delete' options. 
 
+  ->Edit should allow user to append text from the end of the file. Delete removes file permanently from directory. 
 
-	->Edit should allow user to append text from the end of the file. Delete removes file permanently from directory. 
-
-The other File Option available should be "File Search". File Search textbox should be auto-complete matching the file names existing in the directory. Search Results should allow user to open/view and also Email the file.
-
+The other File Option also available to user is "File Search". File Search textbox should be auto-complete matching the file names existing in the directory. Search Results should allow user to open/view and also Email the file.
 
 
 HOW TO USE
