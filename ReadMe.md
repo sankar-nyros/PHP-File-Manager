@@ -2,7 +2,7 @@ __________________________
 PHP FILE MANAGER
 __________________________
 
-PHP File Manager(PFM) is an Open Source.
+PHP File Manager(PFM) is an Open Source..
 
 PFM is a single button. By clicking it prompts user to: 1. Upload New 2. Modify Existing.
 If user selects "Upload New", It allows user to upload files.
